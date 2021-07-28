@@ -2,7 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsum
+## Website content
 
-Lorem ipsum
-Modified again
+1. index.html
